@@ -4,7 +4,7 @@
 💾 In the future I would like to write an app for learning Japanese since I didn't find anything that would meet all my requirements. Sorry green owl app 🙈<br>
 ⚡ Fun fact: I don't like cold cheese but I'm a big fan of cats<br>
 
-<img src='https://media4.giphy.com/media/cmCEsJZHYBPels360q/200w.gif' style="height: 200px;"/>
+<img src='https://media4.giphy.com/media/cmCEsJZHYBPels360q/200w.gif' style="height: 100px;"/>
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)<br> ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
