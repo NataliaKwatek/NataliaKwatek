@@ -1,7 +1,7 @@
 # 💫 About Me:
 👩 Highly driven and motivated Junior Frontend Developer seeking to leverage my passion for coding and recent career transition into frontend development <br>
 🔭 I'm currently working on my project Taberu and other small projects to keep learning new stuff and technologies<br>🌱 I’m currently learning JS & React<br>
-💾 In the future I would like to write an app for learning Japanese since I didn't find anything that would meet all my requirements. Sorry Learning Bird App 🙈<br>
+💾 In the future I would like to write an app for learning Japanese since I didn't find anything that would meet all my requirements. Sorry green owl app 🙈<br>
 ⚡ Fun fact: I don't like cold cheese but I'm a big fan of cats<br>
 
 <img src='https://media4.giphy.com/media/cmCEsJZHYBPels360q/200w.gif' style="height: 200px;"/>
